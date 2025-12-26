@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from backend.app.routes.tasks import router as task_router
+from app.routes.tasks import router as task_router
 
 app = FastAPI(title="Smart Site Task Manager")
 
