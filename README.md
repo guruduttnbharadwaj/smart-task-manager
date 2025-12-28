@@ -144,7 +144,7 @@ TaskHistory Table:
 ![Task Completed](screenshots/task_completed.png)
 
 ### Backend API Documentation
-![API Docs](screenshots/api_docs.png)
+![API Docs](screenshots/api_docs.PNG)
 
 ---
 
