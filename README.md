@@ -1,4 +1,4 @@
-# Smart Task Manager 🧠✅
+# Smart Task Manager 
 
 Live API URL:
 https://smart-task-manager-api-pvlf.onrender.com
@@ -129,15 +129,22 @@ TaskHistory Table:
 - changed_at (Timestamp)
 
 ---
+##  Screenshots
 
-## 6. Screenshots
+### Flutter Dashboard
+![Flutter Dashboard](screenshots/flutter_dashboard.png)
 
-The repository includes screenshots demonstrating:
-- Task dashboard
-- Create task dialog
-- Edit task dialog
-- Task completion toggle
-- Pending vs Completed task views
+### Create Task
+![Create Task](screenshots/create_task.png)
+
+### Edit Task
+![Edit Task](screenshots/edit_task.png)
+
+### Task Completed
+![Task Completed](screenshots/task_completed.png)
+
+### Backend API Documentation
+![API Docs](screenshots/api_docs.png)
 
 ---
 
