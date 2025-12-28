@@ -187,4 +187,3 @@ pytest
 
 This project reflects a production-style approach with clean APIs, database integrity, frontend usability, automated testing, and live deployment.
 
-Thank you for reviewing this submission.
