@@ -1,4 +1,4 @@
-# Smart Task Manager 
+# FlowTrack 
 
 Live API URL:
 https://smart-task-manager-api-pvlf.onrender.com
@@ -128,25 +128,6 @@ TaskHistory Table:
 - new_value (JSON)
 - changed_at (Timestamp)
 
----
-##  Screenshots
-
-### Flutter Dashboard
-![Flutter Dashboard](screenshots/flutter_dashboard.png)
-
-### Create Task
-![Create Task](screenshots/create_task.png)
-
-### Edit Task
-![Edit Task](screenshots/edit_task.png)
-
-### Task Completed
-![Task Completed](screenshots/task_completed.png)
-
-### Backend API Documentation
-![API Docs](screenshots/api_docs.PNG)
-
----
 
 ## 7. Architecture Decisions
 
